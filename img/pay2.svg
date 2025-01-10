@@ -1,0 +1,53 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="72" height="72" rx="20" fill="#28272D"/>
+<g clip-path="url(#clip0_3_437)">
+<path d="M44.4 29.125C44.4 37.4781 36.2538 44.25 26.2 44.25C22.8575 44.25 19.7338 43.5023 17.0388 42.1961C16.3825 42.5398 15.6388 42.875 14.8338 43.1758C13.2325 43.7687 11.3075 44.25 9.4 44.25C8.79625 44.25 8.25375 43.8633 8.07 43.2961C7.88625 42.7289 8.0875 42.1102 8.5775 41.7578L8.595 41.7406C8.6125 41.7234 8.6475 41.7062 8.69125 41.6719C8.77875 41.6031 8.91 41.5 9.0675 41.3539C9.3825 41.0703 9.81125 40.6578 10.2313 40.125C10.7125 39.5234 11.1675 38.8016 11.4738 38.0023C9.28625 35.5102 8 32.4422 8 29.125C8 20.7719 16.1463 14 26.2 14C36.2538 14 44.4 20.7719 44.4 29.125ZM28.2563 46.9141C38.5288 46.0461 47.2 38.7758 47.2 29.125C47.2 28.6781 47.1825 28.2312 47.1475 27.793C56.5713 28.3602 64 34.9 64 42.875C64 46.1922 62.7138 49.2602 60.535 51.7609C60.8413 52.5687 61.2963 53.282 61.7775 53.8836C62.1975 54.4164 62.6263 54.8289 62.9413 55.1125C63.0988 55.25 63.23 55.3617 63.3175 55.4305C63.3613 55.4648 63.3963 55.4906 63.4138 55.4992L63.4313 55.5164C63.9213 55.8688 64.1225 56.4875 63.9388 57.0547C63.755 57.6219 63.2125 58.0086 62.6088 58.0086C60.7013 58.0086 58.7763 57.5273 57.175 56.9344C56.37 56.6336 55.6175 56.2984 54.97 55.9547C52.2663 57.2523 49.1425 58 45.8 58C37.435 58 30.3825 53.3078 28.2563 46.9141ZM27.95 20.1875C27.95 19.2422 27.1625 18.4688 26.2 18.4688C25.2375 18.4688 24.45 19.2422 24.45 20.1875V21.3906C23.785 21.5367 23.12 21.7688 22.5075 22.1211C21.2913 22.8344 20.2413 24.0805 20.25 25.8937C20.2588 27.6383 21.3 28.7383 22.4113 29.3914C23.3738 29.9586 24.5725 30.3195 25.5263 30.5945L25.675 30.6375C26.7775 30.9641 27.5825 31.2219 28.125 31.557C28.5713 31.832 28.6325 32.0211 28.6413 32.2617C28.65 32.6914 28.4838 32.9492 28.125 33.1641C27.6875 33.4305 26.9963 33.5938 26.2525 33.568C25.2813 33.5336 24.3713 33.2328 23.1813 32.8375C22.98 32.7687 22.77 32.7 22.5513 32.6313C21.6325 32.3305 20.6438 32.8203 20.3375 33.7141C20.0313 34.6078 20.53 35.5875 21.44 35.8883C21.6063 35.9398 21.79 36 21.9738 36.0687C22.7 36.318 23.54 36.6016 24.4412 36.7906V38.0453C24.4412 38.9906 25.2288 39.7641 26.1912 39.7641C27.1538 39.7641 27.9413 38.9906 27.9413 38.0453V36.8594C28.6413 36.7133 29.3413 36.4727 29.9713 36.0859C31.2225 35.3211 32.1675 34.0148 32.1413 32.2188C32.115 30.4742 31.1175 29.3484 29.9888 28.6437C28.9825 28.025 27.7225 27.6469 26.7425 27.3547L26.6813 27.3375C25.5613 27.0023 24.765 26.7617 24.205 26.4352C23.75 26.1687 23.7413 26.0141 23.7413 25.8594C23.7413 25.5414 23.8638 25.3008 24.2838 25.0602C24.7563 24.7852 25.4738 24.6219 26.165 24.6305C27.005 24.6391 27.9325 24.8195 28.895 25.0773C29.8313 25.318 30.785 24.7766 31.0387 23.857C31.2925 22.9375 30.7325 22.0008 29.7963 21.7516C29.2275 21.6055 28.5975 21.4594 27.95 21.3477V20.1875Z" fill="url(#paint0_linear_3_437)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_3_437" x1="32.8698" y1="58.0086" x2="64.0232" y2="37.4511" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FBC81F"/>
+<stop offset="0.885" stop-color="#FFAF2E"/>
+</linearGradient>
+<clipPath id="clip0_3_437">
+<rect width="56" height="44" fill="white" transform="translate(8 14)"/>
+</clipPath>
+</defs>
+<!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+</svg>
